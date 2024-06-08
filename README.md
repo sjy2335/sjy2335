@@ -1,8 +1,10 @@
+<div align = "center">
+
 ## ✨ Hello, this is SJ's Github Profile
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy2335)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy2335)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=joey1109)](https://solved.ac/joey1109)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjy2335&hide=html,jupyter%20notebook,scss,css,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjy2335&layout=compact&hide=html,jupyter%20notebook,scss,css,shell)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=joey1109)](https://solved.ac/joey1109) 
 
 ## 💻 Skills
 
@@ -15,3 +17,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/> ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> 
+
+
+</div>
