@@ -1,6 +1,6 @@
 <div align = "center">
 
-## ✨ Hello, this is SJ's Github Profile
+## ✨ Hello, this is SJ's Github Overview
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy2335)](https://github.com/anuraghazra/github-readme-stats) 
 
